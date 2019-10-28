@@ -3,6 +3,8 @@
 This is a simple Python script that contains a class and command line interface that
 allows you to download ann images at full resolution in an imgur album, all at once.
 
+Modified for downloading things from the 2b2t reddit
+
 ## Requirements
 
 Python >= 3.3
